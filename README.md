@@ -143,6 +143,10 @@ Running this script will generate a plot comparing the ground truth data against
 
 Additionally, a script that makes predictions without Volume and Amount data can be found in [`examples/prediction_wo_vol_example.py`](https://github.com/shiyu-coder/Kronos/blob/main/examples/prediction_wo_vol_example.py).
 
+## 🔧 Finetuning on Your Own Data (A-Share Market Example)
+
+Refer to the [README](https://github.com/shiyu-coder/Kronos) of GitHub repository.
+
 ## Citation
 
 If you use Kronos in your research, we would appreciate a citation to our [paper](https://huggingface.co/papers/2508.02739):
