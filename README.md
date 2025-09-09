@@ -14,7 +14,7 @@ tags:
 [![GitHub](https://img.shields.io/badge/%F0%9F%92%BB-GitHub-blue?logo=github)](https://github.com/shiyu-coder/Kronos)
 
 <p align="center">
-  <img src="https://github.com/shiyu-coder/Kronos/blob/master/figures/logo.jpeg?raw=true" alt="Kronos Logo" width="100">
+  <img src="https://github.com/shiyu-coder/Kronos/blob/master/figures/logo.png?raw=true" alt="Kronos Logo" width="100">
 </p>
 
 **Kronos** is the **first open-source foundation model** for financial candlesticks (K-lines), trained on data from over **45 global exchanges**. It is designed to handle the unique, high-noise characteristics of financial data.
